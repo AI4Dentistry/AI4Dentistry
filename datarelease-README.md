@@ -69,24 +69,9 @@ Each folder corresponds to a patient sample (N). The following files are availab
  **Synapse Library:** [Edit this to link directly to your public Synapse Library](https://www.synapse.org/)  
   >*Free account registration is required to download files from Synapse.*  
  
- **Images and metadata are available in the bucket at the following AWS location:** [ADD BUCKET DETAILS]   
-  >*Files available through AWS S3 are made available using a “requester pays” model.*   
-  >*The person downloading the data must have an AWS account, and AWS will charge the user's account $0.10/GB for downloading all or part 
-of the data.*
- 
-*Note About Accessing AWS Data:*
-
->To browse and download the data use either a graphical file transfer application
-that supports S3 such as [CyberDuck](https://cyberduck.io), or the [AWS CLI
-tools](https://aws.amazon.com/cli/). A graphical tool may be more convenient but
-the CLI tools will likely offer higher download speeds. Please refer to the
-documentation for your chosen tool on how to sign in and enable access to
-requester-pays buckets. There is unfortunately no web-browser-based mechanism
-for accessing a requester-pays bucket. Keep in mind the download costs, which
-will run over $200 for downloading one copy of the entire dataset. For users who
-wish to perform processing within AWS to avoid transfer charges, note that the
-bucket is located in the `us-east-1` region so any other resources must be
-instantiated in this same region.
+ **AWS Data Access**
+ >*Visit the following Zenodo page for instructions on how to access primary image data associated with this publication: Access Laboratory of Systems Pharmacology Datasets on AWS, DOI [10.5281/zenodo.10223573](www.doi.org/10.5281/zenodo.10223573)* 
+ >***AWS Bucket:*** *You will need the following AWS bucket name to access data on AWS: <ADD AWS BUCKET NAME>*   
 
 3. **FILE LIST** <*list all files (or folders, as appropriate for dataset organization) contained in the Synapse repository, with a brief description*>
 
@@ -94,27 +79,27 @@ instantiated in this same region.
 
 |Patient | File Name       | Location| File size |
 |------- | ----------------|---------|-----------|
-|ID | ID.ome.tif | AWS     | 90.6 GB   |
+|ID | ID.ome.tif | AWS     |    |
 
 
 **N_HE.vsi**
 
 |Patient | File Name      | Location| File size|
 |--------| ---------------|---------|----------|
-|ID | ID.ome.tif_HE.vsi | AWS     | 531.2 KB |
+|ID | ID.ome.tif_HE.vsi | AWS     |  |
 
 
 **\_N\_HE\_/**
 
 |Patient | File Name   | Location| File size|
 |------- | ------------|---------|----------|
-|ID | frame_t.ets | AWS     | 928.7 MB |
+|ID | frame_t.ets | AWS     |  |
 
 **markers.csv**
 
 |Patient | File Name   | Synapse ID  | File size|
 |------- | ----------- |------------ |----------|
-|ID | markers.csv | syn12345678 | 530 bytes|
+|ID | markers.csv | syn12345678 | |
 
 **N.csv**
 
@@ -140,12 +125,6 @@ instantiated in this same region.
 |Patient | Number of Files | Folder size| Location|
 |------- |-----------------|------------|---------|
 |ID |               |     |      |
-
-
---------------------------
-FUNDING
---------------------------
-Please add relevant funding details <This can be copied directly from your manuscript> 
  
  --------------------------
 ADDITIONAL NOTES/COMMENTS
