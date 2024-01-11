@@ -70,7 +70,8 @@ Each folder corresponds to a patient sample (N). The following files are availab
   >*Free account registration is required to download files from Synapse.*  
  
  **AWS Data Access**
- >*Visit the following Zenodo page for instructions on how to access primary image data associated with this publication: Access Laboratory of Systems Pharmacology Datasets on AWS, DOI [10.5281/zenodo.10223573](www.doi.org/10.5281/zenodo.10223573)* 
+ >*Visit the following Zenodo page for instructions on how to access primary image data associated with this publication: Access Laboratory of Systems Pharmacology Datasets on AWS, DOI: [10.5281/zenodo.10223573](www.doi.org/10.5281/zenodo.10223573)*
+
  >***AWS Bucket:*** *You will need the following AWS bucket name to access data on AWS: <ADD AWS BUCKET NAME>*   
 
 3. **FILE LIST** <*list all files (or folders, as appropriate for dataset organization) contained in the Synapse repository, with a brief description*>
