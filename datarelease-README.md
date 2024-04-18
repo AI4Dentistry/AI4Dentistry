@@ -25,13 +25,13 @@ GENERAL INFORMATION
 Author Last, Author F. (Year). Title of data set (Version number) [Description of form]. Location: Name of producer.    
   
 4. **Relevant links:** <remove links that are not relevant>  
-* Publication DOI: [doi.org/MY-PAPER-DOI](https://doi.org/MY-PAPER-DOI-URL) 
-* Associated GitHub Repository: [MY-REPO](https://github.com/MY-REPO-URL)  
-* To view an archived record of this repository: [My-ZENODO-DOI](https://zenodo.org/doi/MY-ZENDODO-DOI-URL) 
- 
-* To view the image data online, visit: [My-ATLAS-PAGE](https://tissue-atlas.org/MY-ATLAS-PAGE-URL)
-* Associated documentation website: [MY-PROJECT-WEBSITE](MY-PROJECT-WEBSITE-URL)  
-* <Other important links if applicable>
+> * Publication DOI: [doi.org/MY-PAPER-DOI](https://doi.org/MY-PAPER-DOI-URL) 
+> * Associated GitHub Repository: [MY-REPO](https://github.com/MY-REPO-URL)  
+> * To view an archived record of this repository: [My-ZENODO-DOI](https://zenodo.org/doi/MY-ZENDODO-DOI-URL) 
+> * To view the image data online, visit: [My-ATLAS-PAGE](https://tissue-atlas.org/MY-ATLAS-PAGE-URL)
+> * Associated documentation website: [MY-PROJECT-WEBSITE](MY-PROJECT-WEBSITE-URL)  
+> * DOI of other publications that use the data: <If this data is being reused from a past publication, include DOI and APA citation>
+> * <Other important links if applicable>
 
 
 --------------------
@@ -42,7 +42,7 @@ ACCESS THE DATASET
 ## File organization:   
 **Each file follows the following naming convention:**    
 
-Each folder corresponds to a patient sample (N).  
+Each folder corresponds to a patient sample (N). <Edit as needed if this folder structure does not fit the needs of your paper> 
  
 |File Type     | Description                                                                        | Location|
 |--------      | ----------------------------------------------------------------------------------|---------|
@@ -80,52 +80,52 @@ X, Y, Z, data is available on Synapse at: [synapse.org/MY-PUBLIC-SYNAPSE-LIBRARY
 
 ### N.ome.tif
 
-|Patient | File Name       | Location| File size |
+|Patient or Biospecimen ID | File Name       | Location| File size |
 |------- | ----------------|---------|-----------|
 |ID | ID.ome.tif | AWS     | N.N GB   |
 
 
 ### N_HE.vsi
 
-|Patient | File Name      | Location| File size|
+|Patient or Biospecimen ID | File Name      | Location| File size|
 |--------| ---------------|---------|----------|
 |ID | ID.ome.tif_HE.vsi | AWS     | N.N KB |
 
 
 ### \_N\_HE\_/
 
-|Patient | File Name   | Location| File size|
+|Patient or Biospecimen ID | File Name   | Location| File size|
 |------- | ------------|---------|----------|
 |ID | frame_t.ets | AWS     | N.N MB |
 
 ### markers.csv
 
-|Patient | File Name   | Synapse ID  | File size|
+|Patient or Biospecimen ID | File Name   | Synapse ID  | File size|
 |------- | ----------- |------------ |----------|
 |ID | markers.csv | syn12345678 | N.N bytes|
 
 ### N.csv
 
-|Patient | File Name   | Synapse ID | File size |
+|Patient or Biospecimen ID | File Name   | Synapse ID | File size |
 |------- | ------------|------------|-----------|
 |ID | ID.csv |  |  |
 
 ### N_ROI.csv
 
-|Patient | File Name       | Synapse ID  | File size|
+|Patient or Biospecimen ID | File Name       | Synapse ID  | File size|
 |------- | ----------------|-------------|----------|
 |ID | ID_ROI.csv |  |    |
 
 ### raw/
 
-|Patient | Number of Files | Folder size| Location|
+|Patient or Biospecimen ID | Number of Files | Folder size| Location|
 |------- |-----------------|------------|---------|
 |ID | 13              |     |      |
 
 
 ### segmentation/
 
-|Patient | Number of Files | Folder size| Location|
+|Patient or Biospecimen ID | Number of Files | Folder size| Location|
 |------- |-----------------|------------|---------|
 |ID |               |     |      |
 
