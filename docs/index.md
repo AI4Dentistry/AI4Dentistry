@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Home
+title: ABC
 nav_order: 1
 has_children: true
 description: ""
 hero_heading: "SOFTWARE NAME"
 hero_body: "A software that does X and Y"
 hero_ctas:
-  - label: "OVERVIEW"
+  - label: "Project"
     link: "overview/"
   - label: "Tutorial"
     link: "tutorial.html"

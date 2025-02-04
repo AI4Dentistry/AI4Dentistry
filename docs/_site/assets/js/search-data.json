@@ -113,80 +113,80 @@
     "url": "http://localhost:4000/how-to-use.html",
     "relUrl": "/how-to-use.html"
   },"19": {
-    "doc": "Overview",
+    "doc": "DEFG",
     "title": "Overview",
     "content": ". | Overview | What’s MY SOFTWARE? | Why? | How does it work? . | Step 1: Title | Step 2: Title | . | Learn More | . ",
     "url": "http://localhost:4000/overview/#overview",
     "relUrl": "/overview/#overview"
   },"20": {
-    "doc": "Overview",
+    "doc": "DEFG",
     "title": "What’s MY SOFTWARE?",
-    "content": "1-2 sentence description . ",
+    "content": "1-2 sentence description 12345 . ",
     "url": "http://localhost:4000/overview/#whats-my-software",
     "relUrl": "/overview/#whats-my-software"
   },"21": {
-    "doc": "Overview",
+    "doc": "DEFG",
     "title": "Why?",
     "content": "What was the current need in the field that motivated the development? Start out by setting the scene. End by describing how your software fills this gap. ",
     "url": "http://localhost:4000/overview/#why",
     "relUrl": "/overview/#why"
   },"22": {
-    "doc": "Overview",
+    "doc": "DEFG",
     "title": "How does it work?",
     "content": "The software runs three main steps . | Does this first, | then uses that to do this next step, | then finally generates this output | . MY SOFTWARE is written in ABC and is available under the MIT License. It can be downloaded at: https://github.com/labsyspharm/blank-software-website. ",
     "url": "http://localhost:4000/overview/#how-does-it-work",
     "relUrl": "/overview/#how-does-it-work"
   },"23": {
-    "doc": "Overview",
+    "doc": "DEFG",
     "title": "Step 1: Title",
     "content": "![Figure describing this first step](/assets/images/Step1.png) . Figure caption describing this first step. Note: You may want to look at this background material if you want to know more about this step . ",
     "url": "http://localhost:4000/overview/#step-1-title",
     "relUrl": "/overview/#step-1-title"
   },"24": {
-    "doc": "Overview",
+    "doc": "DEFG",
     "title": "Step 2: Title",
     "content": "![Figure describing this second step](/assets/images/Step2.png) . Figure caption describing this second step . ",
     "url": "http://localhost:4000/overview/#step-2-title",
     "relUrl": "/overview/#step-2-title"
   },"25": {
-    "doc": "Overview",
+    "doc": "DEFG",
     "title": "Learn More",
     "content": "View the detailed computational methods for more information on how each step is performed. For more details, read the preprint manuscript here: https://doi.org/. ",
     "url": "http://localhost:4000/overview/#learn-more",
     "relUrl": "/overview/#learn-more"
   },"26": {
-    "doc": "Overview",
-    "title": "Overview",
+    "doc": "DEFG",
+    "title": "DEFG",
     "content": " ",
     "url": "http://localhost:4000/overview/",
     "relUrl": "/overview/"
   },"27": {
-    "doc": "Home",
+    "doc": "ABC",
     "title": "Key Features",
     "content": " ",
     "url": "http://localhost:4000/#key-features",
     "relUrl": "/#key-features"
   },"28": {
-    "doc": "Home",
+    "doc": "ABC",
     "title": "Catchy description",
     "content": "Elaborate on feature. ",
     "url": "http://localhost:4000/#catchy-description",
     "relUrl": "/#catchy-description"
   },"29": {
-    "doc": "Home",
+    "doc": "ABC",
     "title": "Catchy description",
     "content": "Elaborate on feature. ",
     "url": "http://localhost:4000/#catchy-description-1",
     "relUrl": "/#catchy-description-1"
   },"30": {
-    "doc": "Home",
+    "doc": "ABC",
     "title": "Open source",
     "content": "MY SOFTWARE is written in ABC and is available under the MIT License. It can be downloaded at: https://github.com/labsyspharm/blank-software-website. For more details, read the manuscript here: https://doi.org/. ",
     "url": "http://localhost:4000/#open-source",
     "relUrl": "/#open-source"
   },"31": {
-    "doc": "Home",
-    "title": "Home",
+    "doc": "ABC",
+    "title": "ABC",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
