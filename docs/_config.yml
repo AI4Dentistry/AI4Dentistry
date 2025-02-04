@@ -43,10 +43,10 @@ back_to_top_text: "Back to Top"
 license:
   - description: "Contents of this website is licensed under the "
     name: "CC0 1.0 License"
-    url: "https://github.com/labsyspharm/blank-software-website/blob/main/docs/LICENSE"
+    url: "https://github.com/lAI4Dentistry/AI4Dentistry/blob/main/docs/LICENSE"
   - description: "MY SOFTWARE the software is licenced under the "
     name: "MIT License"
-    url: "https://github.com/labsyspharm/blank-software-website/blob/main/LICENSE"
+    url: "https://github.com/AI4Dentistry/AI4Dentistry/blob/main/LICENSE"
 
 # Linked logos
 footer_logos:
@@ -64,7 +64,7 @@ last_edit_time_format: "%b %e %Y" # format: https://ruby-doc.org/stdlib-2.7.0/li
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/labsyspharm/blank-software-website" # the github URL for your repo
+gh_edit_repository: "https://github.com/AI4Dentistry/AI4Dentistry" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
@@ -76,7 +76,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
 
-repository: labsyspharm/blank-software-website
+repository: AI4Dentistry/AI4Dentistry
 
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "vendor/"]
 compress_html:
