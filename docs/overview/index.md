@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEFG
+title: About
 nav_order: 2
 has_children: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Example data
+title: Our method
 nav_order: 20
 nav_exclude: false
 ---

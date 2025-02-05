@@ -35,38 +35,38 @@
     "url": "http://localhost:4000/cite.html",
     "relUrl": "/cite.html"
   },"6": {
-    "doc": "Example data",
+    "doc": "Our method",
     "title": "Example Data Set",
     "content": "Four examples of different methods for embedding images: . ",
     "url": "http://localhost:4000/dataset.html#example-data-set",
     "relUrl": "/dataset.html#example-data-set"
   },"7": {
-    "doc": "Example data",
+    "doc": "Our method",
     "title": "1. Image with a static width (defined by the page width)",
     "content": ". ![Image of exemplar data 2, showing four cores from a tissue microarray, stained with CD163, CD3D, CD31, VDAC1, and Keratin](/images/mcmicro-exemplar-002.jpg) . ",
     "url": "http://localhost:4000/dataset.html#1-image-with-a-static-width-defined-by-the-page-width",
     "relUrl": "/dataset.html#1-image-with-a-static-width-defined-by-the-page-width"
   },"8": {
-    "doc": "Example data",
+    "doc": "Our method",
     "title": "2. Image with dynamic scaling (user defines image proportions with basic grid",
     "content": ". &lt;div class=\"row\"&gt; &lt;div class=\"col-xs-4 col-sm-6\"&gt; &lt;div markdown=\"1\"&gt; ![Image of exemplar data 2, showing four cores from a tissue microarray, stained with CD163, CD3D, CD31, VDAC1, and Keratin](/images/mcmicro-exemplar-002.jpg) &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;!-- end grid --&gt; . ",
     "url": "http://localhost:4000/dataset.html#2-image-with-dynamic-scaling-user-defines-image-proportions-with-basic-grid",
     "relUrl": "/dataset.html#2-image-with-dynamic-scaling-user-defines-image-proportions-with-basic-grid"
   },"9": {
-    "doc": "Example data",
+    "doc": "Our method",
     "title": "3. Image with a static width (defined by the user)",
     "content": ". MCMICRO exemplar-002, showing four cores from a tissue microarray. {: .text-center } {: .fs-3 } {: .fw-300 } &lt;figure&gt; &lt;a&gt; &lt;img src=\"/images/mcmicro-exemplar-002.jpg\" style=\"max-width: 300px;\" alt=\"Image of exemplar data 2, showing four cores from a tissue microarray, stained with CD163, CD3D, CD31, VDAC1, and Keratin)\" /&gt; &lt;/a&gt; &lt;figcaption&gt;MCMICRO exemplar-002, showing four cores from a tissue microarray.&lt;/figcaption&gt; &lt;/figure&gt; . You can add a hyperlink to this image with the following addition: . {: .text-center } {: .fs-3 } {: .fw-300 } &lt;figure&gt; &lt;a href=\"https://mcmicro.org/datasets/\"&gt; &lt;img src=\"/images/mcmicro-exemplar-002.jpg\" style=\"max-width: 300px;\" alt=\"Image of exemplar data 2, showing four cores from a tissue microarray, stained with CD163, CD3D, CD31, VDAC1, and Keratin)\" /&gt; &lt;/a&gt; &lt;figcaption&gt;MCMICRO exemplar-002, showing four cores from a tissue microarray.&lt;/figcaption&gt; &lt;/figure&gt; . ",
     "url": "http://localhost:4000/dataset.html#3-image-with-a-static-width-defined-by-the-user",
     "relUrl": "/dataset.html#3-image-with-a-static-width-defined-by-the-user"
   },"10": {
-    "doc": "Example data",
+    "doc": "Our method",
     "title": "4. Image card with link",
     "content": "This method is often used for Minerva stories . Label for image &lt;div class=\"image-card\"&gt; &lt;figure class=\"image-card__figure\"&gt; &lt;div&gt; &lt;a href=\"https://mcmicro.org/datasets/\" class=\"image-card__link\"&gt; &lt;img src=\"/images/mcmicro-exemplar-002.jpg\" alt=\"Label for image\"&gt; &lt;/a&gt; &lt;/div&gt; &lt;figcaption class=\"image-card__label\"&gt;Label for image&lt;/figcaption&gt; &lt;/figure&gt; &lt;/div&gt; . ",
     "url": "http://localhost:4000/dataset.html#4-image-card-with-link",
     "relUrl": "/dataset.html#4-image-card-with-link"
   },"11": {
-    "doc": "Example data",
-    "title": "Example data",
+    "doc": "Our method",
+    "title": "Our method",
     "content": " ",
     "url": "http://localhost:4000/dataset.html",
     "relUrl": "/dataset.html"
@@ -113,192 +113,198 @@
     "url": "http://localhost:4000/how-to-use.html",
     "relUrl": "/how-to-use.html"
   },"19": {
-    "doc": "DEFG",
+    "doc": "About",
     "title": "Overview",
     "content": ". | Overview | What’s MY SOFTWARE? | Why? | How does it work? . | Step 1: Title | Step 2: Title | . | Learn More | . ",
     "url": "http://localhost:4000/overview/#overview",
     "relUrl": "/overview/#overview"
   },"20": {
-    "doc": "DEFG",
+    "doc": "About",
     "title": "What’s MY SOFTWARE?",
     "content": "1-2 sentence description 12345 . ",
     "url": "http://localhost:4000/overview/#whats-my-software",
     "relUrl": "/overview/#whats-my-software"
   },"21": {
-    "doc": "DEFG",
+    "doc": "About",
     "title": "Why?",
     "content": "What was the current need in the field that motivated the development? Start out by setting the scene. End by describing how your software fills this gap. ",
     "url": "http://localhost:4000/overview/#why",
     "relUrl": "/overview/#why"
   },"22": {
-    "doc": "DEFG",
+    "doc": "About",
     "title": "How does it work?",
     "content": "The software runs three main steps . | Does this first, | then uses that to do this next step, | then finally generates this output | . MY SOFTWARE is written in ABC and is available under the MIT License. It can be downloaded at: https://github.com/labsyspharm/blank-software-website. ",
     "url": "http://localhost:4000/overview/#how-does-it-work",
     "relUrl": "/overview/#how-does-it-work"
   },"23": {
-    "doc": "DEFG",
+    "doc": "About",
     "title": "Step 1: Title",
     "content": "![Figure describing this first step](/assets/images/Step1.png) . Figure caption describing this first step. Note: You may want to look at this background material if you want to know more about this step . ",
     "url": "http://localhost:4000/overview/#step-1-title",
     "relUrl": "/overview/#step-1-title"
   },"24": {
-    "doc": "DEFG",
+    "doc": "About",
     "title": "Step 2: Title",
     "content": "![Figure describing this second step](/assets/images/Step2.png) . Figure caption describing this second step . ",
     "url": "http://localhost:4000/overview/#step-2-title",
     "relUrl": "/overview/#step-2-title"
   },"25": {
-    "doc": "DEFG",
+    "doc": "About",
     "title": "Learn More",
     "content": "View the detailed computational methods for more information on how each step is performed. For more details, read the preprint manuscript here: https://doi.org/. ",
     "url": "http://localhost:4000/overview/#learn-more",
     "relUrl": "/overview/#learn-more"
   },"26": {
-    "doc": "DEFG",
-    "title": "DEFG",
+    "doc": "About",
+    "title": "About",
     "content": " ",
     "url": "http://localhost:4000/overview/",
     "relUrl": "/overview/"
   },"27": {
-    "doc": "ABC",
+    "doc": "Home",
     "title": "Key Features",
     "content": " ",
     "url": "http://localhost:4000/#key-features",
     "relUrl": "/#key-features"
   },"28": {
-    "doc": "ABC",
+    "doc": "Home",
     "title": "Catchy description",
     "content": "Elaborate on feature. ",
     "url": "http://localhost:4000/#catchy-description",
     "relUrl": "/#catchy-description"
   },"29": {
-    "doc": "ABC",
+    "doc": "Home",
     "title": "Catchy description",
     "content": "Elaborate on feature. ",
     "url": "http://localhost:4000/#catchy-description-1",
     "relUrl": "/#catchy-description-1"
   },"30": {
-    "doc": "ABC",
+    "doc": "Home",
     "title": "Open source",
-    "content": "MY SOFTWARE is written in ABC and is available under the MIT License. It can be downloaded at: https://github.com/labsyspharm/blank-software-website. For more details, read the manuscript here: https://doi.org/. ",
+    "content": "MY SOFTWARE is written in ABC and is available under the MIT License. It can be downloaded at: https://github.com/AI4Dentistry/blank-software-website. For more details, read the manuscript here: https://doi.org/. ",
     "url": "http://localhost:4000/#open-source",
     "relUrl": "/#open-source"
   },"31": {
-    "doc": "ABC",
-    "title": "ABC",
+    "doc": "Home",
+    "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
   },"32": {
-    "doc": "Running MY SOFTWARE",
+    "doc": "Our data",
     "title": "Running MY SOFTWARE",
     "content": "This page serves as a reference guide for MY SOFTWARE syntax - you must install before proceeding. Refer to the tutorial for an example step-by-step guide for how to use MY SOFTWARE. ",
-    "url": "http://localhost:4000/usage/",
-    "relUrl": "/usage/"
+    "url": "http://localhost:4000/usage/#running-my-software",
+    "relUrl": "/usage/#running-my-software"
   },"33": {
-    "doc": "Running MY SOFTWARE",
+    "doc": "Our data",
     "title": "Description",
     "content": "MY SOFTWARE performs this task. ",
     "url": "http://localhost:4000/usage/#description",
     "relUrl": "/usage/#description"
   },"34": {
-    "doc": "Running MY SOFTWARE",
+    "doc": "Our data",
     "title": "Input",
     "content": "An .ome.tiff and markers.csv file . Example markers file . The markers file should be formatted in this way . ",
     "url": "http://localhost:4000/usage/#input",
     "relUrl": "/usage/#input"
   },"35": {
-    "doc": "Running MY SOFTWARE",
+    "doc": "Our data",
     "title": "Output",
     "content": "A pyramidal, tiled .ome.tif . ",
     "url": "http://localhost:4000/usage/#output",
     "relUrl": "/usage/#output"
   },"36": {
-    "doc": "Running MY SOFTWARE",
+    "doc": "Our data",
     "title": "Usage:",
     "content": "MY SOFTWARE can be run with the following command . MY-SOFTWARE FILE [FILE ...] [OPTIONS] . For example, to run MY SOFTWARE on a set of data stored at my/path, with OPTION-Y set to 30: . MY-SOFTWARE FILE my/path --OPTION-Y 30 . ",
     "url": "http://localhost:4000/usage/#usage",
     "relUrl": "/usage/#usage"
   },"37": {
-    "doc": "Running MY SOFTWARE",
+    "doc": "Our data",
     "title": "Required arguments",
     "content": "| Name | Description | . | FILE | an ome.tif image file to be processed | . ",
     "url": "http://localhost:4000/usage/#required-arguments",
     "relUrl": "/usage/#required-arguments"
   },"38": {
-    "doc": "Running MY SOFTWARE",
+    "doc": "Our data",
     "title": "Optional arguments",
     "content": "| Name; Shorthand | Description | Default | . | --help; -h | Show this help message and exit |   | . | --output DIR; -o DIR | Write image files to DIR | Current directory | . | --OPTION-Y | Set the number to run with option y. Read below for more information about selecting a value for option y. | 5 | . OPTION Y . The default value works well in many cases, but increasing the value will do X. If you notice Y in your output, the value may need to be adjusted. ",
     "url": "http://localhost:4000/usage/#optional-arguments",
     "relUrl": "/usage/#optional-arguments"
   },"39": {
+    "doc": "Our data",
+    "title": "Our data",
+    "content": " ",
+    "url": "http://localhost:4000/usage/",
+    "relUrl": "/usage/"
+  },"40": {
     "doc": "Installation",
     "title": "Installation",
     "content": "MY SOFTWARE is compatible with Mac, Linux… . Method 1 . MY SOFTWARE can be installed using: . Example code for this installation method . Method 2 . If you have this other system, you may prefer to install using this method. First, do this thing . First step inputs . Then do this other thing . second step inputs . You can verify that the installation was successful by running . this test run . Return to Running MY SOFTWARE to learn more about how to use MY SOFTWARE. ",
     "url": "http://localhost:4000/usage/installation.html#installation",
     "relUrl": "/usage/installation.html#installation"
-  },"40": {
+  },"41": {
     "doc": "Installation",
     "title": "Installation",
     "content": " ",
     "url": "http://localhost:4000/usage/installation.html",
     "relUrl": "/usage/installation.html"
-  },"41": {
+  },"42": {
     "doc": "Options Tuning",
     "title": "Options Tuning",
     "content": "Depending on your software, you may need additional pages for more detailed instructions. For instance, if your software can be highly customized by the user, you may want to provide some examples about how to tune the specific options within the software to generate particular results. I recommend including useful links to other content rather than duplicating content. Ex: You can view a complete list of parameters available for MY SOFTWARE here. See the frequently asked questions (FAQ) page for more useful information and common pitfalls. ",
     "url": "http://localhost:4000/usage/options-tuning.html",
     "relUrl": "/usage/options-tuning.html"
-  },"42": {
+  },"43": {
     "doc": "People",
     "title": "People",
     "content": " ",
     "url": "http://localhost:4000/people.html",
     "relUrl": "/people.html"
-  },"43": {
+  },"44": {
     "doc": "People",
     "title": "Lead Developers",
     "content": ". | Person 1 | . ",
     "url": "http://localhost:4000/people.html#lead-developers",
     "relUrl": "/people.html#lead-developers"
-  },"44": {
+  },"45": {
     "doc": "People",
     "title": "Contributors",
     "content": ". | Person 2 | . ",
     "url": "http://localhost:4000/people.html#contributors",
     "relUrl": "/people.html#contributors"
-  },"45": {
+  },"46": {
     "doc": "People",
     "title": "Laboratory Principal Investigators:",
     "content": ". | Peter K. Sorger | Sandro Santagata | . ",
     "url": "http://localhost:4000/people.html#laboratory-principal-investigators",
     "relUrl": "/people.html#laboratory-principal-investigators"
-  },"46": {
+  },"47": {
     "doc": "Tutorial",
     "title": "Tutorial",
     "content": "Step 1: First, install MY SOFTWARE. Step 2: Descriptive second step. The second step might be obvious to computational folks, but if your software is crossdisciplinary or geared towards users who are not computational, you should be explicit. Code to enter on this step . Note: You may want to include some notes to give useful hints. Step 3: Next…. Code to enter on this step . *Remember to …. ",
     "url": "http://localhost:4000/tutorial.html",
     "relUrl": "/tutorial.html"
-  },"47": {
+  },"48": {
     "doc": "Updates",
     "title": "Software Updates",
     "content": "MY SOFTWARE is periodically being updated to improve functionality. To see up-to-date changes, go to where updates are recorded. ",
     "url": "http://localhost:4000/updates.html#software-updates",
     "relUrl": "/updates.html#software-updates"
-  },"48": {
+  },"49": {
     "doc": "Updates",
     "title": "Roadmap of future updates",
     "content": " ",
     "url": "http://localhost:4000/updates.html#roadmap-of-future-updates",
     "relUrl": "/updates.html#roadmap-of-future-updates"
-  },"49": {
+  },"50": {
     "doc": "Updates",
     "title": "Website Updates",
     "content": "This website was last updated in April 2022. ",
     "url": "http://localhost:4000/updates.html#website-updates",
     "relUrl": "/updates.html#website-updates"
-  },"50": {
+  },"51": {
     "doc": "Updates",
     "title": "Updates",
     "content": " ",

@@ -2,7 +2,7 @@
 layout: default
 nav_exclude: false
 title: FAQ
-parent: Running MY SOFTWARE
+parent: Our data
 nav_order: 20
 
 ---

@@ -193,7 +193,7 @@ hr { position: relative; display: table; margin: 3rem 0; padding: 0; border: 0; 
 
 .main-header { z-index: 1; }
 
-.main-header { background: url("http://localhost:4000/images/hero_background.jpg") center no-repeat; background-size: cover; padding-bottom: 35px; }
+.main-header { background: url("http://localhost:4000/images/panoramic.png") center no-repeat; background-size: cover; padding-bottom: 35px; }
 @media (min-width: 1024px) { .main-header { padding-bottom: 55px; } }
 @media (min-width: 1280px) { .main-header { padding-bottom: 75px; } }
 
@@ -220,7 +220,7 @@ hr { position: relative; display: table; margin: 3rem 0; padding: 0; border: 0; 
 .site-header { display: flex; min-height: 60px; align-items: center; z-index: 3; position: relative; background-color: #e8ecef; }
 @media (min-width: 1280px) { .site-header .site-title { padding-right: 32px; padding-left: 32px; } }
 @media (min-width: 1024px) { .site-header { height: 70px; margin-top: 45px; }
-  .site-header .site-logo { height: 74% !important; } }
+  .site-header .site-logo { height: 100% !important; } }
 
 .site-title { font-size: 1.5rem; line-height: 1.25; font-weight: 600; flex-grow: 1; display: flex; height: 100%; align-items: center; color: #1e506c; padding: 8px 16px; }
 @media (min-width: 640px) { .site-title { font-size: 1.875rem; } }
@@ -234,9 +234,9 @@ hr { position: relative; display: table; margin: 3rem 0; padding: 0; border: 0; 
 
 .scrolled .offscreen-at-start { transform: translateY(0); }
 
-.site-logo { width: 100%; height: 74%; background-image: url("http://localhost:4000/images/blank-microsite-logo.png"); background-repeat: no-repeat; background-position: left center; background-size: contain; transform-origin: 0% 50%; transform: scale(0.99); }
-@media (min-width: 1024px) { .site-logo { height: 66%; } }
-@media (min-width: 1280px) { .site-logo { height: 53%; } }
+.site-logo { width: 200%; height: 100%; background-image: url("http://localhost:4000/images/slogan.png"); background-repeat: no-repeat; background-position: left center; background-size: contain; transform-origin: 0% 50%; transform: scale(0.99); }
+@media (min-width: 1024px) { .site-logo { height: 100%; } }
+@media (min-width: 1280px) { .site-logo { height: 100%; } }
 
 .site-button { display: flex; height: 100%; padding: 16px; align-items: center; margin-left: auto; }
 
@@ -512,8 +512,8 @@ h6, .text-zeta { font-size: 0.75rem; color: #58585a; }
 .btn-outline:focus:hover, .btn-outline.selected:focus { box-shadow: inset 0 0 0 2px #006eb8; }
 
 .btn-arrow { display: inline-flex; align-items: center; }
-.btn-arrow::after { content: ""; width: 50px; height: 17px; margin-left: .5em; display: inline-block; background-color: #006eb8; mask: url(../images/arrow.svg) no-repeat 0% 50%; -webkit-mask: url(../images/arrow.svg) no-repeat 0% 50%; mask-size: contain; -webkit-mask-size: contain; transition: transform 0.2s ease-out; }
-@media (min-width: 640px) { .btn-arrow.btn-large::after { width: 72px; height: 24px; } }
+.btn-arrow::after { content: ""; width: 0px; height: 0px; margin-left: 0em; display: inline-block; background-color: #006eb8; -webkit-mask-size: contain; transition: transform 0.2s ease-out; }
+@media (min-width: 640px) { .btn-arrow.btn-large::after { width: 0px; height: 0px; } }
 .btn-arrow:hover::after { transform: translateX(5px); }
 
 .btn-primary { color: #fff; background-color: #0068ae; }

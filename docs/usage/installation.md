@@ -2,7 +2,7 @@
 layout: default
 nav_exclude: false
 title: Installation
-parent: Running MY SOFTWARE
+parent: Our data
 nav_order: 10
 ---
 

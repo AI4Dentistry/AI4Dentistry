@@ -2,7 +2,7 @@
 layout: default
 nav_exclude: false
 title: Options Tuning
-parent: Running MY SOFTWARE
+parent: Our data
 nav_order: 16
 ---
 

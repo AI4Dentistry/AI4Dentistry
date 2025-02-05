@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SOFTWARE SITE
+title: AI4Dentistry
 description: >- # this means to ignore newlines until "logo:"
   MY SOFTWARE website
-logo: "/images/blank-microsite-logo.png"
-hero_background: "/images/hero_background.jpg"
+logo: "/images/slogan.png"
+hero_background: "/images/panoramic.png"
 
 # Build settings
-remote_theme: labsyspharm/just-the-docs-lsp
+remote_theme: AI4Dentistry/just-the-docs-lsp
 color_scheme: blue
 # color scheme supports "light" (default), "blue", "bold", and "dark"
 heading_anchors: true
@@ -50,12 +50,18 @@ license:
 
 # Linked logos
 footer_logos:
-  - name: "Laboratory of Systems Pharmacology"
-    image: "assets/images/logo_lsp_white.svg" # this is stored in the remote theme's repo
-    url: "https://labsyspharm.org"
+  - name: "King's Collge London"
+    image: "/assets/images/kcl.svg"
+    url: "https://www.kcl.ac.uk/dentistry/research/centre-for-oral-clinical-translational-sciences"
+    height: 75px
+  - name: "University of Surrey"
+    image: "/assets/images/surrey.png"
+    url: "https://www.surrey.ac.uk/"
+    height: 75px
   - name: "Harvard Medical School"
-    image: "/assets/images/logo_hms.svg" # this is stored in the remote theme's repo
-    url: "https://hms.harvard.edu/"
+    image: "/assets/images/logo_hms.svg"
+    url: "https://fundingawards.nihr.ac.uk/award/NIHR204566"
+    height: 50px
 
 # Footer last edited timestamp
 last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
